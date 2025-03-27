@@ -61,4 +61,4 @@ function component(width, height, color, x, y, type) {
         }
     }
     this.newPos = function() {
-        this.gravitySpeed += this.gravity
+        this.gravitySpeed += this.gravity 
